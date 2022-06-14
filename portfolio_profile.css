@@ -1,0 +1,112 @@
+body,p {margin: 0;}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+
+.menu {
+    line-height: 72px;
+}
+
+a {
+    color: #0010ed;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#tap {
+    display: block;
+    position: relative;
+    width: 1365px;
+    height: 1080px;
+    left: 538px;
+    background-color: #0010ed;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+#box1 {
+    display: block;
+    position: absolute;
+    float: left;
+    top: 200px;
+    left: 100px;
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('프로필.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box2 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    width: 360px;
+    height: 400px;
+    overflow: visible;
+}
+
+#box2-1 {
+    display: block;
+    position: absolute;
+    width: 360px;
+    height: 100px;
+}
+
+#box2-2 {
+    display: block;
+    position: absolute;
+    top:116px;
+    width:360px;
+    height: 300px;
+}
+
+#box3 {
+    display: block;
+    position: absolute;
+    top: 316px;
+    left: 768px;
+    width: 360px;
+    height: 700px;
+    overflow: visible;
+}
+
+#box3-1 {
+    display: block;
+    position: absolute;
+    width: 360px;
+    height: 200px;
+}
+
+#box3-2 {
+    display: block;
+    position: absolute;
+    top: 216px;
+    width: 360px;
+    height: 200px;
+}
+
+#box3-3 {
+    display: block;
+    position: absolute;
+    top: 432px;
+    width: 360px;
+    height: 200px;
+}
