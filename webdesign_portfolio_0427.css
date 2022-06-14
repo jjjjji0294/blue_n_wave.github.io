@@ -22,6 +22,13 @@ a {
     font-size: 20px;
 }
 
+h1 {
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+
 #box1 {
     position: relative;
     width: 1920px;
