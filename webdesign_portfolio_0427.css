@@ -1,0 +1,43 @@
+body,p {margin: 0;}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+
+.menu {
+    line-height: 72px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#box1 {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background-color: #0010ed;
+}
+
+#box2 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 100px;
+    top: 40%;
+    background-color: #000000;
+    overflow: visible;
+    background-image: url('파랑.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
