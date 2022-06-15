@@ -42,6 +42,11 @@ p {
     margin-right: 16px;
     background-color: #0010ed;
 }
+.item-container {
+    position: relative;
+    width: 33.3333333%;
+    padding-top: 33.3333333%;
+}
 
 .item {
     position: absolute;
@@ -97,20 +102,12 @@ p {
 #box3 {
     display: block;
     position: absolute;
-    width: 600px;
-    height: 600px;
-    top: 1016px;
-    left: 1104px;
     margin: 0 auto;
 }
 
 #box4 {
     display: block;
     position: absolute; 
-    width: 600px;
-    height: 600px;
-    top: 1632px;
-    left: 1104px;
     margin: 0 auto;
 }
 
