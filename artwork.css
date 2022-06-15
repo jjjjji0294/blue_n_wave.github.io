@@ -43,6 +43,33 @@ p {
     background-color: #0010ed;
 }
 
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #000000;    
+}
+.item:hover .overlay {
+    opacity: 1;
+}  
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
 #box1 {
     display: block;
     position: absolute; 
@@ -58,15 +85,6 @@ p {
     margin: 0 auto;
 }
 
-#box2 {
-    display: block;
-    position: absolute; 
-    width: 300px;
-    height: 200px;
-    right: 616px;
-    text-align: right;
-    margin: 0 auto;
-}
 
 #box3 {
     display: block;
