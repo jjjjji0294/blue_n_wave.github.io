@@ -77,11 +77,6 @@ p {
     height: 600px;
     top: 400px;
     left: 1104px;
-    background-color: black;
-    overflow: visible;
-    background-image: url('앨범디자인일.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
     margin: 0 auto;
 }
 
