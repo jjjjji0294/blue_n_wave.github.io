@@ -4,6 +4,7 @@ header {
     position: fixed;
     width: 100%;
     z-index: 1000;
+    margin: 0 auto;
 }
 
 nav {
@@ -29,6 +30,7 @@ a {
     height: 1080px;
     left: 538px;
     background-color: #0010ed;
+    margin: 0 auto;
 }
 
 p {
