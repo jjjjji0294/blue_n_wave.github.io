@@ -4,6 +4,7 @@ header {
     position: fixed;
     width: 100%;
     z-index: 1000;
+    margin: 0 auto;
 }
 
 nav {
@@ -36,6 +37,7 @@ p {
     height: 10000px;
     margin-right: 16px;
     background-color: #0010ed;
+    margin: 0 auto;
 }
 
 #box1 {
@@ -50,6 +52,7 @@ p {
     background-image: url('앨범디자인일.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box2 {
@@ -59,6 +62,7 @@ p {
     height: 200px;
     right: 616px;
     text-align: right;
+    margin: 0 auto;
 }
 
 #box3 {
@@ -73,6 +77,7 @@ p {
     background-image: url('앨범디자인이.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box4 {
@@ -87,6 +92,7 @@ p {
     background-image: url('앨범디자인삼.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box5 {
@@ -101,6 +107,7 @@ p {
     background-image: url('잡지전체보기.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box5-1 {
@@ -109,6 +116,7 @@ p {
     width: 200px;
     height: 600px;
     left: 916px;
+    margin: 0 auto;
 }
 
 #box6 {
@@ -123,6 +131,7 @@ p {
     background-image: url('actors_page1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box7 {
@@ -136,6 +145,7 @@ p {
     background-image: url('actors_page2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box8 {
@@ -150,6 +160,7 @@ p {
     background-image: url('actors_page3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box9 {
@@ -163,6 +174,7 @@ p {
     background-image: url('actors_page4.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box10 {
@@ -177,6 +189,7 @@ p {
     background-image: url('actors_page5.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box11 {
@@ -190,6 +203,7 @@ p {
     background-image: url('actors_page6.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box12 {
@@ -204,6 +218,7 @@ p {
     background-image: url('actors_page7.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box13 {
@@ -217,6 +232,7 @@ p {
     background-image: url('actors_page8.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box14 {
@@ -231,6 +247,7 @@ p {
     background-image: url('actors_page9.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box15 {
@@ -240,6 +257,7 @@ p {
     height: 400px;
     top: 5908px;
     left: 554px;
+    margin: 0 auto;
 }
 
 #box16 {
@@ -254,6 +272,7 @@ p {
     background-image: url('대지 1 (1,2,3p).jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box17 {
@@ -267,6 +286,7 @@ p {
     background-image: url('대지2 (4,5,6p).png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box18 {
@@ -281,6 +301,7 @@ p {
     background-image: url('목업01.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box19 {
@@ -295,6 +316,7 @@ p {
     background-image: url('목업2.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box20 {
@@ -308,6 +330,7 @@ p {
     background-image: url('목업3.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box21 {
@@ -322,6 +345,7 @@ p {
     background-image: url('웹디자인일.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box22 {
@@ -331,6 +355,7 @@ p {
     height: 300px;
     top: 554px;
     left: 1116px;
+    margin: 0 auto;
 }
 
 #box23 {
@@ -345,6 +370,7 @@ p {
     background-image: url('웹디자인이.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 #box24 {
@@ -359,4 +385,5 @@ p {
     background-image: url('웹디자인삼.png');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
