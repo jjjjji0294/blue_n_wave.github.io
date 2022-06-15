@@ -43,6 +43,20 @@ p {
     background-color: #0010ed;
 }
 
+.item {
+    position: absolute;
+    width: calc(100% - 16px);
+    height: calc(100% - 16px);
+    top: 8px;
+    left: 8px;
+    overflow: hidden;
+}
+
+.item > img {
+    position:absolute;
+    top: 0;
+    width: 100%;
+}
 .overlay {
     position: absolute;
     top: 0;
@@ -76,7 +90,6 @@ p {
     width: 600px;
     height: 600px;
     top: 400px;
-    left: 1104px;
     margin: 0 auto;
 }
 
