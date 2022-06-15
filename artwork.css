@@ -101,11 +101,6 @@ p {
     height: 600px;
     top: 1016px;
     left: 1104px;
-    background-color: #000000;
-    overflow: visible;
-    background-image: url('앨범디자인이.png');
-    background-size: cover;
-    background-repeat: no-repeat;
     margin: 0 auto;
 }
 
@@ -116,11 +111,6 @@ p {
     height: 600px;
     top: 1632px;
     left: 1104px;
-    background-color: black;
-    overflow: visible;
-    background-image: url('앨범디자인삼.png');
-    background-size: cover;
-    background-repeat: no-repeat;
     margin: 0 auto;
 }
 
@@ -131,11 +121,6 @@ p {
     height: 580px;
     top: 2748px;
     left: 554px;
-    background-color: black;
-    overflow: visible;
-    background-image: url('잡지전체보기.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
     margin: 0 auto;
 }
 
