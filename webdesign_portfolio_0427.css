@@ -1,9 +1,10 @@
-body,p {margin: 0;}
+body,p {margin: 0; padding: 0;}
 
 header {
     position: fixed;
     width: 100%;
     z-index: 1000;
+    margin: 0 auto;
 }
 
 nav {
@@ -25,6 +26,9 @@ a {
 h1 {
     animation-duration: 3s;
     animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin: 0; padding: 0;
   }
   
   @keyframes slidein {
@@ -38,19 +42,11 @@ h1 {
       width: 100%;
     }
     75% {
-      font-size: 50%;
+      font-size: 300%;
       margin-left: 25%;
       width: 150%;
-    }    
+    }
   }
-
-
-h1 {
-  animation-duration: 3s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-}
 
 
 #box1 {
@@ -58,6 +54,7 @@ h1 {
     width: 1920px;
     height: 1080px;
     background-color: #0010ed;
+    margin: 0 auto;
 }
 
 #box2 {
@@ -71,4 +68,5 @@ h1 {
     background-image: url('파랑.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
