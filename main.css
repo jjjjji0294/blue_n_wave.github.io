@@ -27,9 +27,6 @@ a {
 }
 
 h1 {
-    position: absolute;
-    top: 300px;
-    left: 150px;
     color: white;
     font-size: 20px;
     animation-duration: 3s;
