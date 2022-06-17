@@ -59,7 +59,6 @@ h1 {
     width: 1920px;
     height: 1080px;
     background-color: #0010ed;
-    margin: 0 auto;
 }
 
 #box2 {
@@ -73,5 +72,12 @@ h1 {
     background-image: url('파랑.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0 auto;
+}
+
+#box3 {
+  position: absolute;
+  width: 1400px;
+  height: 400px;
+  left: 250px;
+  overflow: hidden;
 }
