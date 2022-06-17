@@ -38,22 +38,17 @@ p {
     display: block;
     position: relative;
     width: 538px;
-    height: 10000px;
+    height: 10500px;
     margin-right: 16px;
     background-color: #0010ed;
-}
-.item-container {
-    position: relative;
-    width: 33.3333333%;
-    padding-top: 33.3333333%;
 }
 
 .item {
     position: absolute;
+    display: block;
     width: calc(100% - 16px);
     height: calc(100% - 16px);
-    top: 8px;
-    left: 8px;
+    left: 600px;
     overflow: hidden;
 }
 
@@ -102,41 +97,38 @@ p {
 #box3 {
     display: block;
     position: absolute;
+    width: 600px;
+    height: 600px;
+    top: 600px;
     margin: 0 auto;
 }
 
 #box4 {
     display: block;
     position: absolute; 
+    width: 600px;
+    height: 600px;
+    top: 600px;
     margin: 0 auto;
 }
 
 #box5 {
     display: block;
     position: absolute; 
-    width: 900px;
+    width: 884px;
     height: 580px;
-    top: 2748px;
-    left: 554px;
+    top: 2048px;
     margin: 0 auto;
 }
 
-#box5-1 {
-    display: block;
-    position: absolute; 
-    width: 200px;
-    height: 600px;
-    left: 916px;
-    margin: 0 auto;
-}
 
 #box6 {
     display: block;
     position: absolute; 
     width: 442px;
     height: 300px;
-    top: 3544px;
-    left: 554px;
+    top: 600px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('actors_page1.jpg');
@@ -164,8 +156,8 @@ p {
     position: absolute; 
     width: 442px;
     height: 300px;
-    top: 3860px;
-    left: 554px;
+    top: 920px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('actors_page3.jpg');
@@ -193,8 +185,8 @@ p {
     position: absolute; 
     width: 442px;
     height: 300px;
-    top: 4176px;
-    left: 554px;
+    top: 1240px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('actors_page5.jpg');
@@ -222,8 +214,8 @@ p {
     position: absolute; 
     width: 442px;
     height: 300px;
-    top: 4492px;
-    left: 554px;
+    top: 1560px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('actors_page7.jpg');
@@ -251,8 +243,8 @@ p {
     position: absolute; 
     width: 442px;
     height: 300px;
-    top: 4808px;
-    left: 554px;
+    top: 1880px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('actors_page9.jpg');
@@ -266,8 +258,8 @@ p {
     position: absolute; 
     width: 600px;
     height: 400px;
-    top: 5908px;
-    left: 554px;
+    top: 2758px;
+    left: 600px;
     margin: 0 auto;
 }
 
@@ -276,8 +268,8 @@ p {
     position: absolute; 
     width: 600px;
     height: 400px;
-    top: 5958px;
-    left: 554px;
+    top: 2858px;
+    left: 600px;
     background-color: black;
     overflow: visible;
     background-image: url('대지 1 (1,2,3p).jpg');
@@ -305,8 +297,8 @@ p {
     position: absolute;
     width: 400px;
     height: 300px;
-    top: 6374px;
-    left: 554px;
+    top: 3378px;
+    left: 600px;
     background-color: #000000;
     overflow: visible;
     background-image: url('목업01.png');
@@ -320,8 +312,8 @@ p {
     position: absolute;
     width: 400px;
     height: 300px;
-    top: 6690px;
-    left: 554px;
+    top: 3698px;
+    left: 600px;
     background-color: #000000;
     overflow: visible;
     background-image: url('목업2.png');
@@ -349,8 +341,8 @@ p {
     position: absolute;
     width: 1100px;
     height: 590px;
-    top: 7790px;
-    left: 554px;
+    top: 4590px;
+    left: 600px;
     background-color: #000000;
     overflow: visible;
     background-image: url('웹디자인일.jpg');
@@ -364,7 +356,7 @@ p {
     position: absolute;
     width: 150px;
     height: 300px;
-    top: 554px;
+    top: 500px;
     left: 1116px;
     margin: 0 auto;
 }
@@ -374,8 +366,8 @@ p {
     position: absolute;
     width: 1100px;
     height: 590px;
-    top: 8396px;
-    left: 554px;
+    top: 5210px;
+    left: 600px;
     background-color: #000000;
     overflow: visible;
     background-image: url('웹디자인이.png');
@@ -389,8 +381,8 @@ p {
     position: absolute;
     width: 1100px;
     height: 590px;
-    top: 8996px;
-    left: 554px;
+    top: 5820px;
+    left: 600px;
     background-color: #000000;
     overflow: visible;
     background-image: url('웹디자인삼.png');
